@@ -28,7 +28,7 @@ There wasn't enough time to talk about the **MiniCore** this week, but I'll incl
 
 ## LINKS
 
-<img src="images/smallBeeper.JPG" width="10%" align="left">Small **beeper**: 5 PCS Super Loud 5V Active Alarm Buzzer Beeper Tracker 9*5.5mm for RC MultiRotor FPV Racing Drone  
+<img src="images/smallBeeper.JPG" width="10%" align="left">Small **beeper**: 5 PCS Super Loud 5V Active Alarm Buzzer Beeper Tracker 9\*5.5mm
 https://www.banggood.com/5-PCS-Super-Loud-5V-Active-Alarm-Buzzer-Beeper-Tracker-95_5mm-for-Racing-Drone-p-1117207.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
 
 <img src="images/smallpir.JPG" width="10%" align="left">Small **PIR module** (5 pieces you can buy singly or in threes too)  
