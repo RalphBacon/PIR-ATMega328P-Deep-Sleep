@@ -20,3 +20,15 @@ You want to a different module to trigger the ATMega328P? Easily done.
 
 The video contains a structured walkthrough, circuit diagram and various verbal meanderings from me including showing you the current consumption both with and without the PIR unit.
 
+
+## LINKS
+
+Small **beeper**: 5 PCS Super Loud 5V Active Alarm Buzzer Beeper Tracker 9*5.5mm for RC MultiRotor FPV Racing Drone  
+https://www.banggood.com/5-PCS-Super-Loud-5V-Active-Alarm-Buzzer-Beeper-Tracker-95_5mm-for-Racing-Drone-p-1117207.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
+
+Small **PIR module** (5 pieces you can buy singly or in threes too)  
+https://www.banggood.com/5Pcs-Mini-IR-Infrared-Pyroelectric-PIR-Body-Motion-Human-Sensor-Detector-Module-p-1020426.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
+
+ATMega328P pin out (Arduino vs Physical Pins etc)  
+https://camo.githubusercontent.com/c55beef2f138da61fe671a1e4a307ff4ffbc318d/68747470733a2f2f692e696d6775722e636f6d2f715849456368542e6a7067
+
