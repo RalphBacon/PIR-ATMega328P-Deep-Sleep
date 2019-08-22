@@ -15,7 +15,7 @@ It's a easy project and I'll design a PCB for it using through-hole technology m
 
 One of the benefits of a simple project like this is that it can be configured in a number of ways: instead of it having to be **dark** to trigger the alarm it can be made to be **light** instead. And the sensitivity is adjustable, anyway.
 
-Don't want the beeper? Just use the LED and singel resistor then. You want the alarm to sound for more than 5 seconds? That a simple one-line code change!
+Don't want the beeper? Just use the LED and singel resistor then. You want the alarm to sound for more than 5 seconds? That's a simple one-line code change! And more changes are just as easy to implement, either in code or in hardware.
 
 You want to a different module to trigger the ATMega328P? Easily done.
 
