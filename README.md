@@ -6,8 +6,8 @@
 
 This relatively simple project, ideal for a beginner, is a movement triggered alarm, as long as it is dark. 
 
-<img src="/images/smallpir.JPG" align="left" width="40%" title="Small PIR" caption="PIR">
-
+<img src="/images/smallpir.JPG" align="left" width="40%" title="Small PIR">
+    
 It runs on 3 x AA batteries so the ATMega328P I'm using is put into Deep Sleep and consumes just 0.3µA, whereas the PIR consumes 16µA - quite a difference!
 
 It's a easy project and I'll design a PCB for it using through-hole technology making it even easier for beginners to assemble without worrying about SMD components!
