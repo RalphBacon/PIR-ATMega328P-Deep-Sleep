@@ -2,7 +2,8 @@
 ## See https://www.youtube.com/ralphbacon
 ### (Direct link to video: https://youtu.be/7ChTq7ZHVTI)
 
-2-sided PCB just $5 for 10 pieces https://www.pcbway.com
+### 2-sided PCB just $5 for 10 pieces https://www.pcbway.com
+**PCB Prototyping the easy way - see my video #129 for Hands-On details**
 
 This relatively simple project, ideal for a beginner, is a movement triggered alarm, as long as it is dark. 
 
@@ -20,6 +21,10 @@ You want to a different module to trigger the ATMega328P? Easily done.
 
 The video contains a structured walkthrough, circuit diagram and various verbal meanderings from me including showing you the current consumption both with and without the PIR unit.
 
+### MiniCore
+
+There wasn't enough time to talk about the **MiniCore** this week, but I'll include that the next time we look at this project's progress. It's very useful if you want to change the bare ATMega's clock speed, BOD, LTO and so on. We'll go through it next time.  
+
 
 ## LINKS
 
@@ -32,3 +37,10 @@ https://www.banggood.com/5Pcs-Mini-IR-Infrared-Pyroelectric-PIR-Body-Motion-Huma
 ATMega328P pin out (Arduino vs Physical Pins etc)  
 https://camo.githubusercontent.com/c55beef2f138da61fe671a1e4a307ff4ffbc318d/68747470733a2f2f692e696d6775722e636f6d2f715849456368542e6a7067
 
+If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite journey
+
+My channel and blog are here:  
+\------------------------------------------------------------------  
+https://www.youtube.com/RalphBacon  
+https://ralphbacon.blog  
+\------------------------------------------------------------------
