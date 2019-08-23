@@ -37,6 +37,9 @@ https://www.banggood.com/5Pcs-Mini-IR-Infrared-Pyroelectric-PIR-Body-Motion-Huma
 <img src="images/ATmega328P-Pinmapping.JPG" width="10%" align="left">ATMega328P pin out (Arduino vs Physical Pins etc)  
 https://camo.githubusercontent.com/c55beef2f138da61fe671a1e4a307ff4ffbc318d/68747470733a2f2f692e696d6775722e636f6d2f715849456368542e6a7067
 
+<img src="images/ProjectCase.JPG" width="10%" align="left">Plastic case used in this project  
+https://www.banggood.com/2pcs-75-x-54-x-27mm-DIY-Plastic-Project-Housing-Electronic-Junction-Case-Power-Supply-Box-p-1063302.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
+
 If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite journey
 
 My channel and blog are here:  
